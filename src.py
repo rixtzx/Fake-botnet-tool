@@ -1,0 +1,1 @@
+# This tool was made in batch code, i don't really want people to skid it so i made it an exe but if it gets 10 stars i'll drop source code.
